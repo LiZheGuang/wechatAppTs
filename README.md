@@ -7,7 +7,7 @@
 
 1.下载typescript
 
-	npm install typescript -g
+	npm install 
 
 2.编译
 
